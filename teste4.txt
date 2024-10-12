@@ -1,0 +1,19 @@
+4) Descubra a lógica e complete o próximo elemento:
+
+a) 1, 3, 5, 7, ___ = 9
+// aumenta de dois em dois
+
+b) 2, 4, 8, 16, 32, 64, ____ = 128
+// aumenta o dobro
+
+c) 0, 1, 4, 9, 16, 25, 36 ___ = 49
+// aumenta sempre mais 2 - De 1 á 4 = 3. De 4 á 9 = 5 (aumentou mais 2). De 9 á 16 = 7 (aumentou mais dois)
+
+d) 4, 16, 36, 64, ____ = 100 
+// aumenta sempre mais 8. de 4 á 16 = 12. De 16 a 36 = 20. De 36 a 64 = 28. Então 28 mais 8 = 36 + 64 = 100
+
+e) 1, 1, 2, 3, 5, 8, ___ = 13
+o proximo numero é resultado da soma dois dois anteriores
+
+f) 2,10, 12, 16, 17, 18, 19, ___ = 200
+D. dois, dez, doze, dezesseis...
