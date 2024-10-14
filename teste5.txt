@@ -1,0 +1,25 @@
+5) Você está em uma sala com três interruptores, 
+cada um conectado a uma lâmpada em salas diferentes. 
+Você não pode ver as lâmpadas da sala em que está, 
+mas pode ligar e desligar os interruptores quantas vezes quiser. 
+Seu objetivo é descobrir qual interruptor controla qual lâmpada. 
+Como você faria para descobrir, usando apenas duas idas até uma das salas 
+das lâmpadas, qual interruptor controla cada lâmpada?  
+
+Resposta - 
+
+
+
+    Bom, é preciso usar fatores externos para resolver esse problema, apesar de não ser uma pessoa com ótimos conhecimentos em matemática, 
+pensei em utilizar formulas como arranjo ou combinação, mas em todos cheguei a conlusão que sempre dependeria da sorte ou 50% de chance para acertar as 
+lampadas correspondes aos interruptores. Então, tentando ao máximo trazer esse problema para o mundo real, percebi que precisaria pensar em fatores
+externos para realizar esse ultimo desafio. Na questão diz "Voçe não pode ver as lampadas da sala onde está", logo, pensei em mudar minha localização para um local
+que podesse ter visão das diferentes salas das lampadas, pensei tambem em olhar a luz das lampadas por baixo da porta da sala ou por 
+algum espaço sem entrar na sala para não gastar minhas idas até salas, porem, não está explicito como são as salas ou a distancia de cada uma ou se tambem estão abertas ou fechadas. 
+Portanto, as coisas se dificultaram um pouco, entretanto, descobri um fator que poderia ajudar a diferenciar as lampadas de uma das outras, com a temperatura, poderia descobrir uma ou mais lampdas se conectava a qual interruptor em apenas
+uma ida, economizando as idas. 
+    Então para resolver, deve-se ligar 1 interruptor por um tempo onde a lampada possa aumentar sua temperatura e após isso, deve-se desligar ela,
+em seguida, ligue a segunda e vá até uma das salas, se a lampada estiver desligada, toque nela e veja se está fria, se estiver, então ela corresponde ao interruptor que não foi ligado em nenhum momento
+se estiver desligada e quente corresponde ao primeiro interruptor, se estiver ligada, corresponde ao segundo que foi deixado ligado. Logo após, indo na segunda sala, 
+descobriremos as correspondecias das lampadas com os interruptores, pois, se na segunda sala a lampada estiver ligada e na primeira sala a lampada estavá desligada e fria, significa que a primeira lampada corresponde
+ao interruptor que nunca foi ligado, ou seja, o numero 3, e a lampada numero 2 corresponde ao interruptor que estava ligado, sobrando então a lampada que estava desligada e quente que corresponde ao primeiro interruptor
